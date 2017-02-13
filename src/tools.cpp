@@ -586,6 +586,10 @@ MagicEffectNames magicEffectNames = {
 	{"yellowsmoke",		CONST_ME_YELLOWSMOKE},
 	{"greensmoke",		CONST_ME_GREENSMOKE},
 	{"purplesmoke",		CONST_ME_PURPLESMOKE},
+	{"earlythunder",	CONST_ME_EARLY_THUNDER},
+	{"ragiazbonecapsule",	CONST_ME_RAGIAZ_BONECAPSULE},
+	{"criticaldamage",	CONST_ME_CRITICAL_DAMAGE},
+	{"plungingfish",	CONST_ME_PLUNGING_FISH},
 };
 
 ShootTypeNames shootTypeNames = {
